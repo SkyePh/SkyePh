@@ -13,6 +13,12 @@ Welcome to my GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </p>
 
+## TryHackMe
+
+<p>
+  <script src="https://tryhackme.com/badge/2647353"></script>
+</p>
+
 ## CyberSecurity Skills
 
 <p>
