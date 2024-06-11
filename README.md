@@ -16,7 +16,7 @@ Welcome to my GitHub
 ## TryHackMe
 
 <p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/c0lora.png" alt="TryHackMe" height=80 width=80>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/c0lora.png" alt="TryHackMe" height=30 width=80>
 </p>
 
 ## CyberSecurity Skills
