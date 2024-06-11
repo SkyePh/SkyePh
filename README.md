@@ -15,13 +15,13 @@ Welcome to my GitHub
 
 ## CyberSecurity Skills
 
-<p align="center">
+<p>
   Forensic Investigation, Web Exploitation, Reverse Engineering, OSINT, Crypto
 </p>
 
 ## CTF accomplishments
 
-<p align="center">
+<p>
   Nahamcon24: 22nd out 2.6k teams with my team CYberMouflons 
 </p>
 
