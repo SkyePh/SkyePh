@@ -16,7 +16,7 @@ Welcome to my GitHub
 ## TryHackMe
 
 <p>
-  <script src="https://tryhackme.com/badge/2647353"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/c0lora.png" alt="TryHackMe">
 </p>
 
 ## CyberSecurity Skills
