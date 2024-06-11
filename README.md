@@ -1,6 +1,6 @@
-# Welcome to My Special Repository
+# c0lor_a
 
-This repository showcases my projects and contributions. Below are the technologies I work with:
+Welcome to my GitHub
 
 ## Technologies
 
@@ -13,24 +13,21 @@ This repository showcases my projects and contributions. Below are the technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </p>
 
+## CyberSecurity Skills
+
+<p align="center">
+  Forensic Investigation, Web Exploitation, Reverse Engineering, OSINT, Crypto
+</p>
+
+## CTF accomplishments
+
+<p align="center">
+  Nahamcon24: 22nd out 2.6k teams with my team CYberMouflons 
+</p>
+
 ## About Me
 
-I am passionate about open-source development and constantly learning new technologies to improve my skill set.
+I am passionate about CyberSecurity.
 
-## Projects
 
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
-- **Project 3**: Description of project 3.
 
-## Contact
-
-Feel free to reach out to me via [email@example.com](mailto:email@example.com).
-
-## Contributions
-
-I welcome contributions and suggestions! Feel free to fork this repository and open a pull request to suggest improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
