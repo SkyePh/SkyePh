@@ -14,6 +14,10 @@ Welcome to my GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/microsoft/fastapi/main/docs/en/logo-margin.png" alt="FastAPI" width="60" height="60"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="60" height="60"/>
+
 
 </p>
 
@@ -30,15 +34,16 @@ Welcome to my GitHub
   Forensic Investigation, Web Exploitation, Reverse Engineering, OSINT, Crypto
 </p>
 
-## CTF accomplishments
+## Accomplishments
 
 <p>
   Nahamcon24: 22nd out 2.6k teams with my team CYberMouflons 
 </p>
-
-## About Me
-
-I am passionate about CyberSecurity.
-
+<p>
+  Arduino Hackathon: Winner
+</p>
+<p>
+  Digital Future for Justice 2.0 Bologna Hackathon: Represented Cyprus
+</p>
 
 
