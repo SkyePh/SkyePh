@@ -24,18 +24,6 @@ Welcome to my GitHub
 </p>
 
 
-## TryHackMe
-
-<p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/c0lora.png" alt="TryHackMe">
-</p>
-
-## CyberSecurity Skills
-
-<p>
-  Forensic Investigation, Web Exploitation, Reverse Engineering, OSINT, Crypto
-</p>
-
 ## Accomplishments
 
 <p>
